@@ -1,48 +1,3 @@
-site-NIMH_sub-032111
----
-UNet T
-![site-NIMH_sub-032111_T_epoch36](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_T_epoch36.png)
-UNet NoT 
-![site-NIMH_sub-032111_NoT_epoch27](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_NoT_epoch27.png)
-afni 3dSkullstrip
-![site-NIMH_sub-032111_afni](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_afni.png)
-template-driven flirt+ANTs
-![site-NIMH_sub-032111_ants](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_ants.png)
-FSL BET
-![site-NIMH_sub-032111_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_fsl.png)
-FreeSurfer mri_watershed
-![site-NIMH_sub-032111_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_fs.png)
-
-site-NIMH_sub-032112
----
-UNet T
-![site-NIMH_sub-032112_T_epoch36](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_T_epoch36.png)
-UNet NoT 
-![site-NIMH_sub-032112_NoT_epoch27](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_NoT_epoch27.png)
-afni 3dSkullstrip
-![site-NIMH_sub-032112_afni](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_afni.png)
-template-driven flirt+ANTs
-![site-NIMH_sub-032112_ants](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_ants.png)
-FSL BET
-![site-NIMH_sub-032112_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_fsl.png)
-FreeSurfer mri_watershed
-![site-NIMH_sub-032112_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_fs.png)
-
-site-NIMH_sub-032113
----
-UNet T
-![site-NIMH_sub-032113_T_epoch36](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_T_epoch36.png)
-UNet NoT 
-![site-NIMH_sub-032113_NoT_epoch27](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_NoT_epoch27.png)
-afni 3dSkullstrip
-![site-NIMH_sub-032113_afni](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_afni.png)
-template-driven flirt+ANTs
-![site-NIMH_sub-032113_ants](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_ants.png)
-FSL BET
-![site-NIMH_sub-032113_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_fsl.png)
-FreeSurfer mri_watershed
-![site-NIMH_sub-032113_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_fs.png)
-
 site-amu_sub-032213
 ---
 UNet T
@@ -2052,4 +2007,49 @@ FSL BET
 ![site-uwo_sub-032197_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-uwo_sub-032197_fsl.png)
 FreeSurfer mri_watershed
 ![site-uwo_sub-032197_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-uwo_sub-032197_fs.png)
+
+site-NIMH_sub-032111
+---
+UNet T
+![site-NIMH_sub-032111_T_epoch36](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_T_epoch36.png)
+UNet NoT 
+![site-NIMH_sub-032111_NoT_epoch27](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_NoT_epoch27.png)
+afni 3dSkullstrip
+![site-NIMH_sub-032111_afni](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_afni.png)
+template-driven flirt+ANTs
+![site-NIMH_sub-032111_ants](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_ants.png)
+FSL BET
+![site-NIMH_sub-032111_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_fsl.png)
+FreeSurfer mri_watershed
+![site-NIMH_sub-032111_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032111_fs.png)
+
+site-NIMH_sub-032112
+---
+UNet T
+![site-NIMH_sub-032112_T_epoch36](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_T_epoch36.png)
+UNet NoT 
+![site-NIMH_sub-032112_NoT_epoch27](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_NoT_epoch27.png)
+afni 3dSkullstrip
+![site-NIMH_sub-032112_afni](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_afni.png)
+template-driven flirt+ANTs
+![site-NIMH_sub-032112_ants](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_ants.png)
+FSL BET
+![site-NIMH_sub-032112_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_fsl.png)
+FreeSurfer mri_watershed
+![site-NIMH_sub-032112_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032112_fs.png)
+
+site-NIMH_sub-032113
+---
+UNet T
+![site-NIMH_sub-032113_T_epoch36](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_T_epoch36.png)
+UNet NoT 
+![site-NIMH_sub-032113_NoT_epoch27](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_NoT_epoch27.png)
+afni 3dSkullstrip
+![site-NIMH_sub-032113_afni](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_afni.png)
+template-driven flirt+ANTs
+![site-NIMH_sub-032113_ants](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_ants.png)
+FSL BET
+![site-NIMH_sub-032113_fsl](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_fsl.png)
+FreeSurfer mri_watershed
+![site-NIMH_sub-032113_fs](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/vcheck/site-NIMH_sub-032113_fs.png)
 
