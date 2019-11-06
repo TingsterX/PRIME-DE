@@ -1,5 +1,5 @@
 #!/bin/bash -e
-#from Fair Lab: https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/behn/people/labs/fair-neuroimaging-lab/
+# DA Fair Lab: https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/behn/people/labs/fair-neuroimaging-lab/
 
 if [ $# -ne 4 ]; then
 	echo -e "\nUsage:	`basename $0` <subject_directory> <subject> <atlas_HEAD_prefix> <atlas_BRAIN_prefix>"
