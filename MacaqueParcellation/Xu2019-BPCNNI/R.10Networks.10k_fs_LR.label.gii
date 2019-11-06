@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexRight]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+      <Label Key="1" Red="0.992157" Green="0.741176" Blue="0.45098" Alpha="1"><![CDATA[Medial_V1]]></Label>
+      <Label Key="2" Red="1" Green="0.996078" Blue="0.592157" Alpha="1"><![CDATA[Lateral_V1]]></Label>
+      <Label Key="3" Red="1" Green="0.482353" Blue="0.0941176" Alpha="1"><![CDATA[V2V3V4]]></Label>
+      <Label Key="4" Red="0.101961" Green="0.482353" Blue="0.733333" Alpha="1"><![CDATA[Dorsal_SM]]></Label>
+      <Label Key="5" Red="0.262745" Green="1" Blue="1" Alpha="1"><![CDATA[Ventral_SM]]></Label>
+      <Label Key="6" Red="1" Green="1" Blue="0" Alpha="1"><![CDATA[Limbic]]></Label>
+      <Label Key="7" Red="1" Green="0" Blue="0.611765" Alpha="1"><![CDATA[PCU_and_MT]]></Label>
+      <Label Key="8" Red="1" Green="0" Blue="0" Alpha="1"><![CDATA[Ventral_Salience]]></Label>
+      <Label Key="9" Red="0" Green="0" Blue="1" Alpha="1"><![CDATA[Control]]></Label>
+      <Label Key="10" Red="0.196078" Green="1" Blue="0.203922" Alpha="1"><![CDATA[Executive]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_LABEL"
+           DataType="NIFTI_TYPE_INT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="10242"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[#1]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>

@@ -1,33 +1,16 @@
 ---
-noteId: "2d8bc27000eb11ea8cee77324bba55ce"
+noteId: "0e0d8e4000ed11ea8cee77324bba55ce"
 tags: []
 
 ---
 
-# PRIMate-Data Exchange (PRIME-DE) Data release and minimal data preprocessing
+# PRIMate-Data Exchange (PRIME-DE) Resources
 Resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
-
- - Quality Assessment [QAP](http://preprocessed-connectomes-project.org/quality-assessment-protocol)
- - Brain Extraction 
- - Functional Registration 
  
-### Brain Extraction
+### PRIME-DE data release and minimal data preprocessing
+- Data: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
-- Template: [NMT Macaque Template] (https://afni.nimh.nih.gov/NMT)
-- Site-specific Template: One animal which has been manually edited and aligned to NMT space
-- Brain extraction: NMT was used as an atlas for brain extraction, if failed, the site-specific good subject was used to revised the brain mask
+- Ref: [An Open Resource for Non-human Primate Imaging. Neuron 2018](https://www.cell.com/neuron/fulltext/S0896-6273(18)30768-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318307682%3Fshowall%3Dtrue)
 
-```
-bash MaskandRegister.bash <subject_directory> <subject> <atlas_HEAD> <atlas_BRAIN>
-```
-
-### Structure alignment
-```
-x_align_anat.sh <TemplateHead> <TemplateBrain> <TemplateMask> <Anat> <AnatMask>
-```
-
-### Function alignment
-```
-x_align_anat.sh <TemplateHead> <TemplateBrain> <TemplateMask> <Anat> <AnatMask>
-```
+- Code: [PRIME-DE_release_1.0_minimal_preproc_code](https://github.com/TingsterX/PRIME-DE/tree/master/PRIME-DE_release_1.0_minimal_preproc_code)

@@ -1,0 +1,20 @@
+Medial_V1
+1 253 189 115 255
+Lateral_V1
+2 255 254 151 255
+V2V3V4
+3 255 123 24 255
+Dorsal_SM
+4 26 123 187 255
+Ventral_SM
+5 67 255 255 255
+Limbic
+6 255 255 0 255
+PCU_and_MT
+7 255 0 156 255
+Ventral_Salience
+8 255 0 0 255
+Control
+9 0 0 255 255
+Executive
+10 50 255 52 255
