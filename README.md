@@ -7,7 +7,7 @@ Resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
 - Ref: [Milham et al., 2018. An Open Resource for Non-human Primate Imaging. Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(18)30768-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318307682%3Fshowall%3Dtrue)
 
-- Code: [PRIME-DE_release_1.0_minimal_preproc_code](https://github.com/TingsterX/PRIME-DE/tree/master/PRIME-DE_release_1.0_minimal_preproc_code)
+- Code: [PRIME-DE_release_minimal_preproc_code](https://github.com/TingsterX/PRIME-DE/tree/master/PRIME-DE_release_minimal_preproc_code)
 
 ---
 
