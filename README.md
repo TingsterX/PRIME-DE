@@ -2,7 +2,7 @@
 Resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
 --- 
-### PRIME-DE 1.0 release and minimal data preprocessing
+### PRIME-DE data release and minimal data preprocessing
 - Data: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
 - Code: [PRIME-DE_release_1.0_minimal_preproc_code](https://github.com/TingsterX/PRIME-DE/tree/master/PRIME-DE_release_1.0_minimal_preproc_code)
