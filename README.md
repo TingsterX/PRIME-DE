@@ -21,7 +21,6 @@ Resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
 - Ref: [Xu et al., 2019. Interindividual Variability of Functional Connectivity in Awake and Anesthetized Rhesus Macaque Monkeys. Bioloical Psychiatry CNNI](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(19)30066-7/fulltext)
 
-- Parcellation preview
- 
+- Parcellation preview\ 
 ![10 Networks](https://github.com/TingsterX/PRIME-DE/blob/master/MacaqueParcellation/Xu2019-BPCNNI/preview_10Networks.jpeg)
 
