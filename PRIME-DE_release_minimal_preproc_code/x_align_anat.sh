@@ -2,7 +2,6 @@
 # Align anatomical image to a template.
 # usuage: x_align_anat.sh <TemplateHead> <TemplateBrain> <TemplateMask> <Anat> <AnatMask>
 #
-# Lei.Ai, Ting.Xu @ Child Mind Institute
 
 
 # figure generation.
