@@ -2,7 +2,6 @@
 # Align functional image to a template, it uses a warp file created form the anatomy to template in fnirt.
 # usuage: x_align_func.sh <TemplateBrain> <Func> <AnatBrain> <anat2template_warp>
 #
-# Lei.Ai, Ting.Xu @ Child Mind Institute
 
 # figure generation function.
 vcheck (){
