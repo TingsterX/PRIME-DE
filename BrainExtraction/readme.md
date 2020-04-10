@@ -1,4 +1,7 @@
 ## PRIME-DE skull-stripped brain masks (pre-release)
+
+Date: April 8th, 2020
+
 ----
 ## Descriptions
 This is a pre-release of skull-stripped brian masks of T1w images for 134 macaque monkeys (19 sites) from [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). The masks are created from a convolutional network - UNet model, initially trained on a human sample and upgraded with macaque data.
@@ -16,6 +19,5 @@ This is a pre-release of skull-stripped brian masks of T1w images for 134 macaqu
 #### Brain masks for 85 macaque monkeys left
 ![release](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/release/pre-release_2020-04-08/other_unet.gif)
 
-Date: April 8th, 2020
 
 Contributors: Xindi Wang, Jae Wook Cho, Xinhui Li, Ting Xu
