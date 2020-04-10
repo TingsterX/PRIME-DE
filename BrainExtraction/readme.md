@@ -17,4 +17,5 @@ This is a pre-release of skull-stripped brian masks of T1w images for 134 macaqu
 ![release](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/release/pre-release_2020-04-08/other_unet.gif)
 
 Date: April 8th, 2020
+
 Contributors: Xindi Wang, Jae Wook Cho, Xinhui Li, Ting Xu
