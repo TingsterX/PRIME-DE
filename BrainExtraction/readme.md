@@ -21,6 +21,7 @@ This is a pre-release of skull-stripped brian masks of T1w images for 134 macaqu
 
 
 Cite: [OHBM2019 poster](https://ww5.aievolution.com/hbm1901/index.cfm?do=abs.viewAbs&abs=4924)
+
 Paper: coming soon
 
 Contributors: Xindi Wang, Jae Wook Cho, Xinhui Li, Ting Xu
