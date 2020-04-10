@@ -3,8 +3,7 @@
 ## Descriptions
 This is a pre-release of skull-stripped brian masks of T1w images for 134 macaque monkeys (19 sites) from [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). The masks are created from a convolutional network - UNet model, initially trained on a human sample and upgraded with macaque data.
 
-## Download
-[link](https://github.com/TingsterX/PRIME-DE/releases/tag/pre-release)
+### [Download](https://github.com/TingsterX/PRIME-DE/releases/tag/pre-release)
 
 ### Overview 
 
