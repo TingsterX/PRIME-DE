@@ -1,8 +1,3 @@
----
-noteId: "4d2d10807c2311ea9e9c6d8fadbf75d2"
-tags: []
-
----
 
 # PRIMate-Data Exchange (PRIME-DE) Resources
 Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
