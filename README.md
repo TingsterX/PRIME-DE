@@ -47,6 +47,7 @@ Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.htm
 
 #### Joint-embedding alignment between human and macaque
 - Ref: [Xu, Nenning et al., biorxiv](https://www.biorxiv.org/content/10.1101/692616v3)
-- ![Cross-species parcellation](https://github.com/TingsterX/PRIME-DE/blob/master/macaque-human-alignment/figures/MSM-Aligned.png)
+- MSM aligned parcellation between human and macaque 
+![Cross-species parcellation](https://github.com/TingsterX/PRIME-DE/blob/master/macaque-human-alignment/figures/MSM-Aligned.png)
 - Download [coming soon](https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment)
 
