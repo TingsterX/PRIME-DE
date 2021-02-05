@@ -2,7 +2,7 @@
 
 Update: Nov 12th, 2020
 
-The official release of UNet model and brain masks can be found: https://github.com/HumanBrainED/NHP-BrainExtraction
+### Note: The official release of UNet model and brain masks are moved to: https://github.com/HumanBrainED/NHP-BrainExtraction
 
 ----
 ## Descriptions
