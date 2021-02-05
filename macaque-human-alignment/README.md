@@ -7,16 +7,14 @@
 
 - Functional phylogenetic map  (functional connectivity homology index)
 
-<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__montage.png alt="human" width=400 height=300> 
-<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__flat_L.png alt="human flat" width=400 height=400>
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figure_functional_homology_map.png alt="homology map"> 
 
 - Evolutional Areal Expansion (Relative Surface Area Human/Macaque)
 <img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png alt="human" width=800 height=150>
-<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_macaque1.png alt="macaque" width=800 height=150>
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_monkey.png alt="macaque" width=800 height=150>
 
 - Landmark (Relative Surface Area Human/Macaque)
-<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_human.png alt="human" width=400 height=150>
-<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_macaque1.png alt="macaque" width=400 height=150>
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/figure_landmarks.png alt="human">
 
 
 - Cross-species parcellation
