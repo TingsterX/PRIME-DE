@@ -13,7 +13,7 @@ Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.htm
 - Download [link](https://github.com/TingsterX/alignment_macaque-human)
 
 - Cross-species alignment between human and macaque 
-![Cross-species alignment](https://github.com/TingsterX/alignment_macaque-human/blob/main/animations/cross-species_alignment_28s.gif = 600x)
+![Cross-species alignment](https://github.com/TingsterX/alignment_macaque-human/blob/main/animations/cross-species_alignment_28s.gif)
 
 ---
 
