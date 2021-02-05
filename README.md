@@ -19,11 +19,11 @@ Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.htm
 
 ## The brain extraction tool (DeepBet) for nonhuman primate 
 
-- Brain Extraction Tool and brain masks: [download] (https://github.com/HumanBrainED/NHP-BrainExtraction)
+- Brain Extraction Tool and brain masks: [download](https://github.com/HumanBrainED/NHP-BrainExtraction)
 - The skull-stripped brain mask of T1w images for 136 macaque monkeys from PRIME-DE 
 ![brain mask](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/release/4_release.gif)
 
-- Ref: [Want et al., Biorxiv] (https://www.biorxiv.org/content/10.1101/2020.11.17.385898v2)
+- Ref: [Want et al., Biorxiv](https://www.biorxiv.org/content/10.1101/2020.11.17.385898v2)
 
 ---
 
