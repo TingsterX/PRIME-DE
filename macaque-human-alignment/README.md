@@ -3,19 +3,19 @@
 ### Joint-embedding alignment between human and macaque
 
 - Cross-species alignment in Joint-embedding space
-![Cross-species alignment](https://github.com/TingsterX/alignment_macaque-human/animations/cross-species_alignment_28s.gif)
+![Cross-species alignment](https://github.com/TingsterX/alignment_macaque-human/blob/main/animations/cross-species_alignment_28s.gif)
 
 - Functional phylogenetic map  (functional connectivity homology index)
-![Human](https://github.com/TingsterX/alignment_macaque-human/functional_homology/figures/figure_FHI_human__montage.png)
-![Human flat](https://github.com/TingsterX/alignment_macaque-human/functional_homology/figures/figure_FHI_human__flat_L.png)
+![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__montage.png)
+![Human flat](https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__flat_L.png)
 
 - Evolutional Areal Expansion (Relative Surface Area Human/Macaque)
-![Human](https://github.com/TingsterX/alignment_macaque-human/area_expansion/figure_area_expansion_relative_0_36_human.png)
-![Macaque](https://github.com/TingsterX/alignment_macaque-human/area_expansion/figure_area_expansion_relative_0_36_human.png)
+![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png)
+![Macaque](https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png)
 
 - Landmark (Relative Surface Area Human/Macaque)
-![Human](https://github.com/TingsterX/alignment_macaque-human/landmarks/landmark_human.png)
-![Macaque](https://github.com/TingsterX/alignment_macaque-human/landmarks/landmark_macaque1.png)
+![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_human.png)
+![Macaque](https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_macaque1.png)
 
 - Cross-species parcellation
 
