@@ -10,7 +10,7 @@ Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.htm
 
 - Ref: [Xu, Nenning et al., (2020). Cross-species functional alignment reveals evolutionary hierarchy within the connectome. NeuroImage, 223,117346](https://www.sciencedirect.com/science/article/pii/S1053811920308326)
 
-- Download [link](https://github.com/TingsterX/alignment_macaque-human)
+- Download [link](https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment)
 
 - Cross-species alignment between human and macaque 
 ![Cross-species alignment](https://github.com/TingsterX/alignment_macaque-human/blob/main/animations/cross-species_alignment_28s.gif)
