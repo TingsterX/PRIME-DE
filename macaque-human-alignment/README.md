@@ -2,8 +2,6 @@
 
 - Ref: [Xu, Nenning et al., (2020). Cross-species functional alignment reveals evolutionary hierarchy within the connectome. NeuroImage, 223,117346](https://www.sciencedirect.com/science/article/pii/S1053811920308326)
 
-
-
 ---
 ## Joint-embedding alignment between human and macaque
 
@@ -24,6 +22,6 @@
 <img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png alt="human" width=800 height=150>
 <img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_monkey.png alt="macaque" width=800 height=150>
 
-### Download [link](https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment)
+### Download [https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment](https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment)
 
 ---
