@@ -7,19 +7,19 @@
 
 - Functional phylogenetic map  (functional connectivity homology index)
 <img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__montage.png alt="human" width=400 height=300>
-![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__montage.png =400x300)
-![Human flat](https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__flat_L.png)
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__flat_L.png alt="human flat" width=400 height=300>
 
 - Evolutional Areal Expansion (Relative Surface Area Human/Macaque)
-![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png)
-![Macaque](https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png)
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_human.png alt="human" width=200 height=50>
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/area_expansion/figure_area_expansion_relative_0_36_macaque.png alt="macaque" width=200 height=50>
 
 - Landmark (Relative Surface Area Human/Macaque)
-![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_human.png)
-![Macaque](https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_macaque1.png)
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_human.png alt="human" width=400 height=300>
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/landmarks/landmark_macaque1.png alt="macaque" width=400 height=300>
+
 
 - Cross-species parcellation
-
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/cross-species_parcellation/figures/cross-species_parcellation.png alt="human" width=800 height=600>
 
 - Ref: [Xu, Nenning et al., (2020). Cross-species functional alignment reveals evolutionary hierarchy within the connectome. NeuroImage, 223,117346](https://www.sciencedirect.com/science/article/pii/S1053811920308326)
 
