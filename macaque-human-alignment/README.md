@@ -6,6 +6,7 @@
 ![Cross-species alignment](https://github.com/TingsterX/alignment_macaque-human/blob/main/animations/cross-species_alignment_28s.gif)
 
 - Functional phylogenetic map  (functional connectivity homology index)
+<img src=https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__montage.png alt="human" width=400 height=300>
 ![Human](https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__montage.png =400x300)
 ![Human flat](https://github.com/TingsterX/alignment_macaque-human/blob/main/functional_homology/figures/figure_FHI_human__flat_L.png)
 
