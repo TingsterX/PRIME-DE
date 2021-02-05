@@ -3,17 +3,31 @@
 # PRIMate-Data Exchange (PRIME-DE) Resources
 Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
---- 
-### PRIME-DE data release and minimal data preprocessing
-- Data: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
+---
+## Cross-species alignment
 
-- Code: [PRIME-DE_release_1.0_minimal_preproc_code](https://github.com/TingsterX/PRIME-DE/tree/master/PRIME-DE_release_minimal_preproc_code)
+### Joint-embedding alignment between human and macaque
 
-- Ref: [Milham et al., 2018. An Open Resource for Non-human Primate Imaging. Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(18)30768-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318307682%3Fshowall%3Dtrue)
+- Ref: [Xu, Nenning et al., (2020). Cross-species functional alignment reveals evolutionary hierarchy within the connectome. NeuroImage, 223,117346](https://www.sciencedirect.com/science/article/pii/S1053811920308326)
+
+- Download [link](https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment)
+
+- Cross-species alignment between human and macaque 
+![Cross-species alignment](https://github.com/TingsterX/PRIME-DE/blob/master/macaque-human-alignment/animations/cross-species_alignment_28s.gif)
 
 ---
 
-### Macaque Network
+## The brain extraction tool (DeepBet) for nonhuman primate 
+
+- Brain Extraction Tool and brain masks: [download] (https://github.com/HumanBrainED/NHP-BrainExtraction)
+- The skull-stripped brain mask of T1w images for 136 macaque monkeys from PRIME-DE 
+![brain mask](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/release/4_release.gif)
+
+- Ref: [Want et al., Biorxiv] (https://www.biorxiv.org/content/10.1101/2020.11.17.385898v2)
+
+---
+
+## Macaque Network
 
 - Data: [PRIME-DE site-oxford](http://fcon_1000.projects.nitrc.org/indi/PRIME/oxford.html)
 
@@ -26,23 +40,12 @@ Data resource: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.htm
 
 ---
 
-### The skull-stripped brain masks of T1w macaque monkeys from PRIME-DE
-- **Descriptions**: The skull-stripped brian masks of T1w images for 134 macaque monkeys (19 sites) from PRIME-DE. The masks are created from a convolutional network - UNet model, initially trained on a human sample and upgraded with macaque data.
+## PRIME-DE data release and minimal data preprocessing
+- Data: [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)
 
-- ![Testing masks](https://github.com/TingsterX/PRIME-DE/blob/master/BrainExtraction/release/pre-release_2020-04-08/test_unet.gif)
+- Code: [PRIME-DE_release_1.0_minimal_preproc_code](https://github.com/TingsterX/PRIME-DE/tree/master/PRIME-DE_release_minimal_preproc_code)
 
-- Download: [masks](https://github.com/TingsterX/PRIME-DE/releases)
- 
-- Paper: coming soon
+- Ref: [Milham et al., 2018. An Open Resource for Non-human Primate Imaging. Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(18)30768-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318307682%3Fshowall%3Dtrue)
 
-- Cite: [OHBM2019 poster](https://ww5.aievolution.com/hbm1901/index.cfm?do=abs.viewAbs&abs=4924)
----
 
-### Cross-species alignment
-
-#### Joint-embedding alignment between human and macaque
-- Ref: [Xu, Nenning et al., biorxiv](https://www.biorxiv.org/content/10.1101/692616v3)
-- MSM aligned parcellation between human and macaque 
-![Cross-species parcellation](https://github.com/TingsterX/PRIME-DE/blob/master/macaque-human-alignment/figures/MSM-Aligned.png)
-- Download [coming soon](https://github.com/TingsterX/PRIME-DE/tree/master/macaque-human-alignment)
 
